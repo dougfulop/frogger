@@ -2,3 +2,5 @@
 states/
 actions.json
 traces/
+video1/
+*frogger_dqn_*
